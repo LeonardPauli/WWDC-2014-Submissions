@@ -55,7 +55,7 @@ Sanjeet Suhag - [Source](https://github.com/sanjeetsuhag/WWDC-2014-Scholarship-A
 
 Mert Dümenci - Source, [Video](http://www.youtube.com/watch?v=z_se6loQj-w), [Twitter](http://twitter.com/mertdumenci)
 
-Leonard Pauli - Source, [Video](https://www.youtube.com/watch?v=kvRqZf4E2mU), [Twitter](https://twitter.com/LeonardPauli)
+Leonard Pauli (Accepted) - Source, [Video](https://www.youtube.com/watch?v=kvRqZf4E2mU), [Twitter](https://twitter.com/LeonardPauli)
 
 Austin Valleskey - Source, [Video](https://www.facebook.com/photo.php?v=526092777508950), [Twitter](https://twitter.com/@ajvalleskey)
 
